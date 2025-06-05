@@ -4,14 +4,14 @@
 
 <h1 align="center">Hi, I'm Djody 👋</h1>
 <p align="center">
-  <strong>Fullstack Web Developer | PHP Developer | Tech Enthusiast</strong>
+  <strong> Web Developer | IT Support Specialist | Tech Enthusiast</strong>
 </p>
 
 ---
 
 ### 🔥 About Me
 
-- 🧑‍💻 I'm a freelance web developer, currently working as IT Support at **PT Metro Pearl Indonesia**, a shoe manufacturing company.  
+- 🧑‍💻 I'm a freelance web developer, currently working as IT Support Specialist at **PT Metro Pearl Indonesia**, a shoe manufacturing company.  
 - 🌐 I’ve built systems like the **Web Sistem Informasi Desa** and **MLM Management System** for **Jawara Group**, a herbal medicine company.
 - ⚙️ I believe: **Every line of code I write is a step toward making someone’s life a bit easier.**
 - 💬 Tech stack I use: **PHP Native, CSS, HTML, Bootstrap,Laravel,TypeScript,TailwindCSS**
