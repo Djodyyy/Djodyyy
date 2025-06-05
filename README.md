@@ -2,18 +2,22 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Cartoon" width="300" />
 </p>
 
-<h1 align="center">🎸  I'm Djody — Punk Rock Dev ⚡</h1>
+<h1 align="center">Hi, I'm Djody 👋</h1>
 <p align="center">
-  <strong>Fullstack Web Developer | PHP Warrior | Code & Chaos Enthusiast 🤘</strong>
+  <strong>Fullstack Web Developer | PHP Developer | Tech Enthusiast</strong>
 </p>
 
 ---
 
 ### 🔥 About Me
 
-- ⚙️ Learning hard & loud: **Every Line Of Code I Write Is A Step Toward Making Someone's life a bit Easier**
-- 💬 Talk tech, talk loud: **Laravel, PHP Native, Bootstrap, REST APIs**
-- ☕ Fun fact: Coding sambil dengerin Green Day bikin logic makin tajam 😎
+- 🧑‍💻 I'm a freelance web developer, currently working as IT Support at **PT Metro Pearl Indonesia**, a shoe manufacturing company.  
+- 🌐 I’ve built systems like the **Web Sistem Informasi Desa** and **MLM Management System** for **Jawara Group**, a herbal medicine company.
+- ⚙️ I believe: **Every line of code I write is a step toward making someone’s life a bit easier.**
+- 💬 Tech stack I use: **PHP Native, CSS, HTML, Bootstrap,Laravel,TypeScript,TailwindCSS**
+- 🚀 I'm always learning to stay updated with new technologies and AI developments.
+
+---
 
 ### ⚒️ Dev Stack
 
@@ -43,16 +47,16 @@
 
 ---
 
-### 🔗 Connect With Me Like We’re At a Gig 🎤
+### 📫 Connect With Me
 
-- 🎧 Discord: `@dumpstuck`
-- 📫 Email: `djody.aripin1@gmail.com` 
+- 💬 Discord: `@dumpstuck`
+- 📧 Email: `djody.aripin1@gmail.com`
 - 💼 [LinkedIn](https://www.linkedin.com/in/djody-rizaldi-arifin-101b94299/)
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="200" alt="Rock On" />
+  <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="200" alt="Thanks" />
 </p>
 
-> _"Write code like you're breaking the rules. Build like you're smashing guitars."_ 🎸
+> _"Keep learning, keep building."_ 🚀
