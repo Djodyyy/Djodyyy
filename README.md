@@ -14,7 +14,7 @@
 - 🧑‍💻 I'm a freelance web developer, currently working as IT Support Specialist at **PT Metro Pearl Indonesia**, a shoe manufacturing company.  
 - ⚙️ I believe: **Every line of code I write is a step toward making someone’s life a bit easier.**
 - 💬 Tech stack I use: **CSS, HTML, JavaScript, PHP, Laragon, MySQL, Bootstrap**
-- 🚀 I'm always learning to stay updated with new technologies and AI developments.
+- 🚀 I'm always learning to stay updated with new technologies
 
 ---
 
