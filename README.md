@@ -12,7 +12,6 @@
 ### 🔥 About Me
 
 - 🧑‍💻 I'm a freelance web developer, currently working as IT Support Specialist at **PT Metro Pearl Indonesia**, a shoe manufacturing company.  
-- 🌐 I’ve built systems like the **Web Sistem Informasi Desa** and **MLM Management System** for **Jawara Group**, a herbal medicine company.
 - ⚙️ I believe: **Every line of code I write is a step toward making someone’s life a bit easier.**
 - 💬 Tech stack I use: **CSS, HTML, JavaScript, PHP, Laragon, MySQL, Bootstrap**
 - 🚀 I'm always learning to stay updated with new technologies and AI developments.
@@ -33,12 +32,6 @@
 
 
 ---
-
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Djodyyy&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djodyyy&layout=compact&theme=tokyonight" height="150" />
-</p>
 
 ---
 
