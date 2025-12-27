@@ -12,9 +12,10 @@
 ### 🔥 About Me
 
 - 🧑‍💻 I'm a freelance web developer, currently working as IT Support Specialist at **PT Metro Pearl Indonesia**, a shoe manufacturing company.  
+- 🌐 I’ve built systems like the **Web Sistem Informasi Desa** and **MLM Management System** for **Jawara Group**, a herbal medicine company.
 - ⚙️ I believe: **Every line of code I write is a step toward making someone’s life a bit easier.**
 - 💬 Tech stack I use: **CSS, HTML, JavaScript, PHP, Laragon, MySQL, Bootstrap**
-- 🚀 I'm always learning to stay updated with new technologies
+- 🚀 I'm always learning to stay updated with new technologies and AI developments.
 
 ---
 
@@ -34,31 +35,17 @@
 ---
 
 ### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Djodyyy&theme=tokyonight" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Djodyyy&show_icons=true&theme=tokyonight" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djodyyy&layout=compact&theme=tokyonight" width="300" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Djodyyy&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djodyyy&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
-
-- 💬 Discord: `@dumpstuck`
-- 📧 Email: `djody.aripin1@gmail.com`
-- 💼 [LinkedIn](https://www.linkedin.com/in/djody-rizaldi-arifin-101b94299/)
+- **Email:** djody.aripin1@gmail.com
+- **LinkedIn:** [Djody Rizaldi Arifin](https://www.linkedin.com/in/djody-rizaldi-arifin-101b94299/)
+- **Discord:** `@dumpstuck`
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="150" alt="Thanks" />
-</p>
-
-> _"Keep learning, keep building."_ 🚀
+*"Keep learning, keep building."*
